@@ -1,6 +1,6 @@
 ---
 date: 22-07-2025
-title: Finding the Roots (Where the Graph Touches or Crosses the x-axis) 🌱
+title: Finding the Roots (Where the Graph Touches or Crosses the x-axis) 🌱🫛🫛🫛
 description: Write a function div_by_exactly_one that takes three integers num, a, and b. The function should return True if num is divisible by exactly one of the numbers a or b, and False otherwise.
 imageSrc: https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png
 ---
