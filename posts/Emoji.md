@@ -1,5 +1,5 @@
 ---
-title: "Emoji | \U0001F4DD\U0001FADB1️⃣\U0001F3A8 Updated Title"
+title: Emoji | Save in mdx format
 description: A new post
 date: '2025-07-27'
 author: Your Name
@@ -16,4 +16,4 @@ image: ''
 
 Start writing your Markdown content here.
 
-# Updated content in Emoji.md file
+# Updated content in Emoji.mdx file
