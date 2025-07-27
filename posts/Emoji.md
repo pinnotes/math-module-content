@@ -1,5 +1,5 @@
 ---
-title: Emoji | Save in mdx format
+title: "Emoji\U0001FAB6\U0001FAB6\U0001FAB6\U0001F34C\U0001F34C\U0001F34C\U0001F34C\U0001F34C\U0001F34C"
 description: A new post
 date: '2025-07-27'
 author: Your Name
@@ -12,7 +12,7 @@ slug: emoji-1
 image: ''
 ---
 
-# New Blog Post
+# New Blog Post 🍌🍌🍌
 
 Start writing your Markdown content here.
 
