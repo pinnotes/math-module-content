@@ -1,12 +1,21 @@
 ---
-date: 22-07-2025
-title: Stick Hero is a simple game where the player controls a stick that extends to bridge gaps between platforms.
-description: Write a function div_by_exactly_one that takes three integers num, a, and b. The function should return True if num is divisible by exactly one of the numbers a or b, and False otherwise.
-imageSrc: https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png
-tags: [Game,Editor]
+date: '2025-07-27'
+title: >-
+  Stick Hero is a simple game where the player controls a stick that extends to
+  bridge gaps between platforms.
+description: "Write a function\_div_by_exactly_one\_that takes three integers\_num,\_a, and\_b. The function should return\_True\_if\_num\_is divisible by exactly one of the numbers\_a\_or\_b, and\_False\_otherwise."
+imageSrc: >-
+  https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png
+tags:
+  - Game
+  - Editor
+category: GameDev
+slug: >-
+  stick-hero-is-a-simple-game-where-the-player-controls-a-stick-that-extends-to-bridge-gaps-between-platforms
+image: ''
 ---
 
-## Stick Hero 🦸 🎮 [Admin Editor]
+## Stick Hero 🦸 🎮 
 
 ![Stick Hero](https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png)
 
