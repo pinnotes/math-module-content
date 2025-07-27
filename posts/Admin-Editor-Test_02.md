@@ -1,9 +1,15 @@
 ---
-title: New Post
+title: 'Admin Editor '
 description: A new post
-date: 2025-07-24
+date: '2025-07-27'
 author: Your Name
-tags: [Editor,Gemini,Preplixity]
+tags:
+  - Editor
+  - Gemini
+  - Preplixity
+slug: new-post
+image: ''
+category: ''
 ---
 
 # From Admin Editor
