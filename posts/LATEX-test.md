@@ -1,8 +1,16 @@
 ---
-date: 22-07-2025
-title: Finding the Roots (Where the Graph Touches or Crosses the x-axis) 🌱🫛🫛🫛
-description: Write a function div_by_exactly_one that takes three integers num, a, and b. The function should return True if num is divisible by exactly one of the numbers a or b, and False otherwise.
-imageSrc: https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png
+date: '2025-07-27'
+title: "Finding the Roots (Where the Graph Touches or Crosses the x-axis) \U0001F331\U0001FADB\U0001FADB\U0001FADB"
+description: "Write a function\_div_by_exactly_one\_that takes three integers\_num,\_a, and\_b. The function should return\_True\_if\_num\_is divisible by exactly one of the numbers\_a\_or\_b, and\_False\_otherwise."
+imageSrc: >-
+  https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png
+category: Math
+slug: finding-the-roots-where-the-graph-touches-or-crosses-the-x-axis-
+image: ''
+tags:
+  - Math
+  - LATEX
+  - Table
 ---
 
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
