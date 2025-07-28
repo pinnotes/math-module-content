@@ -1,15 +1,16 @@
 ---
 title: 'Admin Editor '
 description: A new post
-date: '2025-07-27'
+date: '2025-07-28'
 author: Your Name
 tags:
   - Editor
   - Gemini
   - Preplixity
 slug: new-post
-image: ''
-category: ''
+image: >-
+  https://images.unsplash.com/photo-1571244051166-5548e340b792?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+category: Admin
 ---
 
 # From Admin Editor
