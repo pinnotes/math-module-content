@@ -1,8 +1,16 @@
 ---
-date: 22-07-2025
+date: '2025-07-28'
 title: Check if a Number is Divisible by Exactly One of the Given Numbers
-description: Write a function div_by_exactly_one that takes three integers num, a, and b. The function should return True if num is divisible by exactly one of the numbers a or b, and False otherwise.
-imageSrc: https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png
+description: "Write a function\_div_by_exactly_one\_that takes three integers\_num,\_a, and\_b. The function should return\_True\_if\_num\_is divisible by exactly one of the numbers\_a\_or\_b, and\_False\_otherwise."
+imageSrc: >-
+  https://raw.githubusercontent.com/simplearyan/stick-hero/main/assets/Screenshot.png
+image: >-
+  https://images.unsplash.com/photo-1747895684398-be9211eebf24?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+category: Python
+slug: check-if-a-number-is-divisible-by-exactly-one-of-the-given-numbers
+tags:
+  - Python
+  - IIT
 ---
 
 
