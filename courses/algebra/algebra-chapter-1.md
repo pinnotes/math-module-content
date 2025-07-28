@@ -8,12 +8,21 @@ date: '2025-07-28'
 tags:
   - math
   - algebra
+author: ''
+description: ''
+lessonOrder: 1
+duration: 15 min
+videoUrl: 'https://youtu.be/F9BZ5JsnjYM?si=2aVhTDeH5sV5qF5z'
 ---
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 # Quantitative Aptitude Topics Explained with Examples and Solutions
 
 Below is a simple, exam-ready explanation of each major quantitative aptitude topic, including clear examples and step-by-step solutions.
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F9BZ5JsnjYM?si=2aVhTDeH5sV5qF5z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
 
 ## 1. Number System
 
