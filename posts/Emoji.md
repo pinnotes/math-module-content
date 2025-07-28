@@ -6,7 +6,8 @@ author: Harsh
 tags:
   - Emoji
   - "\U0001FADB"
-  - "\U0001F4DD"
+  - "\U0001FAB6"
+  - "\U0001F3A8"
 category: Emoji
 slug: emoji-1
 image: >-
@@ -14,7 +15,14 @@ image: >-
 ---
 
 # New Blog Post 🍌🍌🍌
+---
 
 Start writing your Markdown content here.
 
+---
+
 # Markdown Editor Version 3.1
+
+---
+
+# New UI 🎨
