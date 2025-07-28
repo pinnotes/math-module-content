@@ -1,8 +1,8 @@
 ---
 title: "Emoji\U0001FAB6\U0001FAB6\U0001FAB6\U0001F34C\U0001F34C\U0001F34C\U0001F34C\U0001F34C\U0001F34C"
-description: A new post
+description: A new post about emoji
 date: '2025-07-28'
-author: Your Name
+author: Harsh
 tags:
   - Emoji
   - "\U0001FADB"
