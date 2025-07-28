@@ -17,4 +17,4 @@ image: >-
 
 Start writing your Markdown content here.
 
-# Updated content in Emoji.mdx file
+# Markdown Editor Version 3.1
