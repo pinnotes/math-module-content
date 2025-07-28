@@ -1,5 +1,5 @@
 ---
-date: '2025-07-27'
+date: '2025-07-28'
 title: >-
   Stick Hero is a simple game where the player controls a stick that extends to
   bridge gaps between platforms.
@@ -12,7 +12,8 @@ tags:
 category: GameDev
 slug: >-
   stick-hero-is-a-simple-game-where-the-player-controls-a-stick-that-extends-to-bridge-gaps-between-platforms
-image: ''
+image: >-
+  https://images.unsplash.com/photo-1495446815901-a7297e633e8d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 ## Stick Hero 🦸 🎮 
