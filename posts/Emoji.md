@@ -1,7 +1,7 @@
 ---
 title: "Emoji\U0001FAB6\U0001FAB6\U0001FAB6\U0001F34C\U0001F34C\U0001F34C\U0001F34C\U0001F34C\U0001F34C"
 description: A new post about emoji
-date: '2025-07-28'
+date: '2025-07-29'
 author: Harsh
 tags:
   - Emoji
@@ -26,3 +26,5 @@ Start writing your Markdown content here.
 ---
 
 # New UI 🎨
+
+# Show Alert | Github API Rate Limit
