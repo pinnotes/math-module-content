@@ -1,3 +1,18 @@
+---
+title: 'Swap and Reverse Lines Program in Python'
+description: A new post
+date: '2025-07-28'
+author: Diksha
+tags:
+  - Editor
+  - Gemini
+  - Preplixity
+slug: Swap and Reverse Lines Program in Python
+image: >-
+  https://images.unsplash.com/photo-1571244051166-5548e340b792?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+category: Github
+---
+
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 ### 🔄 Swap and Reverse Lines Program in Python
