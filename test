@@ -1,0 +1,160 @@
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
+# extract all questions and give solutions
+
+Sure! Here are all the extracted questions from the provided image, each followed by a friendly, step-by-step solution with explanations and relevant emojis:
+
+## 17️⃣ What is the value of \$ f(0) \$?
+
+### **Given:**
+
+- \$ f \$ is a real-valued function on \$ \mathbb{R} \$.
+- \$ f(x + y) = f(x)f(y) \$ for all \$ x, y \in \mathbb{R} \$.
+- \$ f(1) = 7 \$, \$ f'(0) = 2 \$.
+
+
+### **Solution:**
+
+Let’s use the property: \$ f(0 + 0) = f(0) f(0) \implies f(0)^2 = f(0) \$
+
+So either \$ f(0) = 0 \$ or \$ f(0) = 1 \$.
+
+But, let's check if \$ f(0) = 0 \$ is possible:
+
+If \$ f(0) = 0 \$, then for any \$ x \$,
+
+$$
+f(x) = f(x + 0) = f(x) f(0) = f(x) \times 0 = 0
+$$
+
+This would mean \$ f(x) = 0 \$ for all \$ x \$, but we are given \$ f(1) = 7 \neq 0 \$.
+
+Thus, **\$ f(0) = 1 \$**. ✅✨
+
+## 18️⃣ What is the value of \$ f'(1) \$?
+
+### **Solution:**
+
+Let's hypothesize the general form for \$ f \$ using the given functional equation.
+
+Whenever \$ f(x+y) = f(x)f(y) \$, the continuous solutions are of the form \$ f(x) = a^x \$.
+
+We know \$ f(1) = 7 \Rightarrow a^1 = 7 \implies a = 7 \$.
+
+So, \$ f(x) = 7^x \$.
+
+Now differentiate:
+
+$$
+f'(x) = 7^x \ln 7
+$$
+
+So,
+
+$$
+f'(1) = 7^1 \ln 7 = 7 \ln 7
+$$
+
+The answer: **\$ f'(1) = 7\ln 7 \$**. 🧮
+
+## 19️⃣ Consider a function \$ f \$ defined as,
+
+$$
+f(x) = 
+\begin{cases}
+3mx + n, & x < 1 \\
+11, & x = 1 \\
+5mx + 2n, & x > 1
+\end{cases}
+$$
+
+If \$ f \$ is continuous at \$ x = 1 \$, then the value of \$ m + n \$ is?
+
+### **Solution:**
+
+For continuity at \$ x = 1 \$:
+
+$$
+\lim_{x \to 1^-} f(x) = 3m(1) + n = 3m + n
+$$
+
+$$
+f(1) = 11
+$$
+
+$$
+\lim_{x \to 1^+} f(x) = 5m(1) + 2n = 5m + 2n
+$$
+
+Set all equal to 11:
+
+$$
+3m + n = 11 \\
+5m + 2n = 11
+$$
+
+Let’s solve the system:
+Subtract the first from the second:
+
+$$
+(5m + 2n) - (3m + n) = 0 \implies 2m + n = 0 \implies n = -2m
+$$
+
+Substitute \$ n = -2m \$ into the first equation:
+
+$$
+3m + (-2m) = 11 \implies m = 11
+$$
+
+So \$ n = -2 \times 11 = -22 \$.
+
+Sum: \$ m + n = 11 - 22 = \boxed{-11} \$ 🔢
+
+## 20️⃣ Maximizing Profit for an LED Manufacturer
+
+**Given:**
+
+- Price per LED: \$ p(x) = 1000 - x \$ (when \$ x \leq 800 \$).
+- Total cost to produce \$ x \$ LEDs:
+
+$$
+g(x) =
+\begin{cases}
+    30000 + 30x & x \leq 400 \\
+    100x + 11000 & 400 < x \leq 800
+\end{cases}
+$$
+- Maximum production possible due to a constraint: \$ x = 400 \$.
+
+Find the number of LEDs the company should produce and sell to maximize profit.
+
+### **Solution:**
+
+Profit is maximized where the difference between revenue and cost is the greatest.
+
+- Revenue: \$ R(x) = x \times (1000 - x) \$
+- Cost: \$ C(x) = 30000 + 30x \$ (since \$ x \leq 400 \$)
+- Profit: \$ P(x) = x(1000 - x) - (30000 + 30x) = 1000x - x^2 - 30000 - 30x = 970x - x^2 - 30000 \$
+
+Take the derivative and find the critical point within \$ 0 < x \leq 400 \$:
+
+$$
+\frac{dP}{dx} = 970 - 2x
+$$
+
+Set to 0:
+
+$$
+970 - 2x = 0 \implies x = 485
+$$
+
+But \$ x \leq 400 \$ (due to production issue), so the maximum profit occurs at \$ x = 400 \$.
+
+**Answer:** \$ \boxed{400} \$ LEDs should be produced and sold to maximize profit 💡💰
+
+Let me know if you’d like even more step-by-step details or a graphical explanation for any part! 😁✨
+
+<div style="text-align: center">⁂</div>
+
+[^1]: Screenshot-2025-07-29-160848.jpg
+
